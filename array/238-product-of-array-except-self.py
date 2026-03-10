@@ -26,7 +26,7 @@ class TestProductExceptSelf(unittest.TestCase):
 
     def test_four_positive_numbers(self):
         """
-        Calcualte the answer for four positive numbers:
+        Calculate the answer for four positive numbers:
         [2, 3, 4, 5]
         """
         nums = [2, 3, 4, 5]
