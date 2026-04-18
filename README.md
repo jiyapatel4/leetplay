@@ -1,2 +1,2 @@
 # leetplay
-One LeetCode question a day to keep the interview scaries away!
+A LeetCode question a day keeps the interview scaries away!
