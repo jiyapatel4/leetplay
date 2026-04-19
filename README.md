@@ -1,1 +1,2 @@
-# leetplay
+# LeetPlay
+A LeetCode question a day keeps the interview scaries away!
